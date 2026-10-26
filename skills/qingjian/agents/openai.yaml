@@ -1,0 +1,4 @@
+interface:
+  display_name: "轻笺"
+  short_description: "把讨论整理成任务、安排每日工作，并在授权范围内同步项目进展。"
+  default_prompt: "使用 $qingjian 帮我整理当前项目，确认关键节点后同步到轻笺。"
